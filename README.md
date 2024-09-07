@@ -87,7 +87,7 @@ You can customize the clues by editing the `clues` list in the script. Each clue
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/Scavenger-Hunt/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/WazupSteve/Scavenger-Hunt/issues) if you want to contribute.
 
 ## License
 
